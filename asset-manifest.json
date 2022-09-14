@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCVGenerator/static/css/main.850436af.css",
+    "main.js": "/ReactCVGenerator/static/js/main.4ebf1428.js",
+    "static/js/787.e7cea540.chunk.js": "/ReactCVGenerator/static/js/787.e7cea540.chunk.js",
+    "index.html": "/ReactCVGenerator/index.html",
+    "main.850436af.css.map": "/ReactCVGenerator/static/css/main.850436af.css.map",
+    "main.4ebf1428.js.map": "/ReactCVGenerator/static/js/main.4ebf1428.js.map",
+    "787.e7cea540.chunk.js.map": "/ReactCVGenerator/static/js/787.e7cea540.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850436af.css",
+    "static/js/main.4ebf1428.js"
+  ]
+}
