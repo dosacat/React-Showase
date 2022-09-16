@@ -1,5 +1,5 @@
 # React-Showase
-Link to live app:https://dosacat.github.io/ReactCVGenerator/
+Link to live app: https://dosacat.github.io/ReactCVGenerator/
 
 A react app to create CVs according in a fixed template.
 Used programming with functional react components.
